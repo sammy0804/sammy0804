@@ -5,10 +5,11 @@
 - 🌱 I’m currently learning React, Vue and design UX/UI
 - 🤝 I’m looking to collaborate on some project about JavaScript and React
 
+#
 ### Get in touch:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samara-montana/)
 
-
+#
 ### 💻 Languages and Tools:
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
