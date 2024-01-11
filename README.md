@@ -25,9 +25,8 @@
   ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=.net&logoColor=white)
 
 
-### Github Stats:
-![Samara Rincon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy0804&show_icons=true&theme=default)
+### ⭐ Github Stats:
+![Samara Rincon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy0804&show_icons=true&theme=radical&text_bold=false&line_height=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy0804&theme=radical&layout=compact)
 
-### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy0804&layout=compact&theme=default)
 
